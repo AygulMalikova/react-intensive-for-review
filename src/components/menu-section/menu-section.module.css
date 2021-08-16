@@ -1,9 +1,0 @@
-.header {
-  text-align: left;
-}
-
-.cards {
-  display: flex;
-  flex-flow: wrap;
-  padding: 0;
-}
